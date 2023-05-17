@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    padding: 50px 80px;
+}
+
+/* Nav Bar */
+.move-down{
+    margin-bottom: 20px;
+}
+
+.focus:hover{
+    color: #F0A04B;
+}
+
+
+.expand-bit{
+    padding: 0.5% 0.5%;
+}
+
+.heading-image{
+    width: 100%;
+
+} 
+
+h1.margin-1{
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: bold;
+}
+
+p.margin-1{
+    margin-right: 25px;
+    margin-bottom: 35px;
+    font-size: 0.9rem;
+    color: gray;
+}
+
+.margin-1{
+    margin-top: 30px;
+}
+
+.cl{
+    background-color: #F16767;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 0;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.cl:hover{
+    background-color: black;
+    color: white;
+}
+
+.new-back{
+    background-color: black;
+    padding: 30px 15px;
+}
+
+.gold-heading{
+    color: #F0A04B;
+}
+
+.white-heading{
+    color: white;
+    margin-top: 20px;
+}
+
+.small-text{
+    color: white;
+    font-size: 0.6rem;
+}
+
+hr{
+    color: white;
+}
+
+.img-2{
+    float: left;
+    margin-right: 20px;
+}
+
+#mysection{
+    padding-top: 40px;
+}
+
+.give-color{
+    color: gray;
+}
+
+.give-font{
+    font-size: 0.9rem;
+    line-height: 1;
+    color: gray;
+}
+
+.push-down{
+    height: 100%;
+    padding: 2px 8px;
+}
+
+.top-down{
+    margin-top: 100px;
+}
+
+.attribution{
+    text-align: center;
+}
+
+@media screen and (max-width:650px) {
+    body{
+        padding: 5px;
+    }
+
+    .cl{
+        margin-bottom: 50px;
+    }
+
+    .img-2{
+        margin-bottom: 20px;
+    }
+    
+}
+
